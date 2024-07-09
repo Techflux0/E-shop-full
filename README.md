@@ -128,6 +128,9 @@ Follow these steps to set up the project locally.
 ## List Product
 ![Ecommerce Web App](https://i.imgur.com/qGdKi1k.jpeg)
 
+## Add Product
+![add](https://i.imgur.com/o8R30Qx.jpeg)
+
 ### Project Structure
 
 - **Backend:** Node.js, Express, MongoDB, Mongoose
