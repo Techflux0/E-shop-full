@@ -63,8 +63,8 @@ Technologies Used
     Frontend: HTML, CSS, JavaScript, React
     Backend: Node.js, Express.js
     Database: MongoDB
-    Authentication: JWT, OAuth
-    Payment Gateway: Stripe, PayPal
+    Authentication: JWT
+    Payment Gateway: MPESA, PayPal
 
 Contributing
 
