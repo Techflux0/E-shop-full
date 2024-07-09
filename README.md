@@ -1,4 +1,4 @@
-# 📦 **Ecommerce Web App**
+# 📦 **E-shop Ecommerce**
 
 ![Ecommerce Web App](https://i.imgur.com/ucdCcWz.jpeg)
 
