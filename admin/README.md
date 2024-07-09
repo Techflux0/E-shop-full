@@ -41,7 +41,7 @@ The **Online Eshop** is a web-based application that allows users to browse, sea
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: JWT (JSON Web Tokens)
-- **Payment Processing**: Stripe API
+- **Payment Processing**: MPESA API, PAYPAL API
 
 ---
 
