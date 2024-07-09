@@ -47,3 +47,98 @@ E-shop-Web-App/
 │   └── package.json
 ├── README.md
 └── package.json
+
+```
+
+## 🏁 **Getting Started**
+
+Follow these steps to set up the project locally.
+
+### Prerequisites
+
+- Node.js
+- MongoDB
+- npm or yarn
+
+### Installation
+
+1. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/x-poison/E-shop-full.git
+    cd E-shop-full
+    ```
+
+2. **Backend Setup:**
+
+    ```bash
+    cd backend
+    npm install
+    ```
+    - Enter the MongoDB connection string
+    - Obtain one here [![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)](https://www.mongodb.com/)
+    - Goto backend/index.js and paste it as shown bellow
+
+    ```plaintext
+
+    // Database connection with mongoDB
+
+    mongoose.connect("MONGODB URI");
+
+    ```
+
+    - Start the backend server:
+
+    ```bash
+    node index.js
+    
+    ```
+
+3. **Frontend Setup:**
+
+    Open a new terminal window and navigate to the project root directory:
+
+    ```bash
+    cd frontend
+    npm install
+    ```
+
+    Start the frontend development server:
+
+    ```bash
+    npm start
+    ```
+
+### Running the Application
+
+- The backend server will run on `http://localhost:5000`.
+- The frontend development server will run on `http://localhost:3000`.
+
+### Features
+
+- **Product Listing:** Browse through a variety of products.
+- **Shopping Cart:** Add or remove products from the shopping cart.
+- **Checkout:** Securely checkout using PayPal or M-PESA.
+- **Authentication:** Register and log in to manage your orders.
+- **Coupon Codes:** Apply coupon codes for discounts.
+
+### Project Structure
+
+- **Backend:** Node.js, Express, MongoDB, Mongoose
+- **Frontend:** React, Context API for state management
+
+### License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### Contributing
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
+
+### Contact
+
+For any inquiries, please reach out to [your-email@example.com].
