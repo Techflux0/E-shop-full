@@ -72,14 +72,16 @@ Follow these steps to set up the project locally.
 2. **Backend Setup:**
 
     ```bash
+
     cd backend
     npm install
+    
     ```
     - Enter the MongoDB connection string
     - Obtain one here [![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)](https://www.mongodb.com/)
     - Goto backend/index.js and paste it as shown bellow
 
-    ```plaintext
+    ```bash
 
     // Database connection with mongoDB
 
@@ -91,7 +93,7 @@ Follow these steps to set up the project locally.
 
     ```bash
     node index.js
-    
+
     ```
 
 3. **Frontend Setup:**
