@@ -38,6 +38,7 @@ E-shop-Web-App/
 ├── frontend/
 │   ├── public/
 │   ├── src/
+│   │   ├── assets/
 │   │   ├── components/
 │   │   ├── context/
 │   │   ├── pages/
@@ -125,11 +126,23 @@ Follow these steps to set up the project locally.
 - **Authentication:** Register and log in to manage your orders.
 - **Coupon Codes:** Apply coupon codes for discounts.
 
-## List Product
+## Check This Out
+
+## List Products
 ![Ecommerce Web App](https://i.imgur.com/qGdKi1k.jpeg)
 
 ## Add Product
 ![add](https://i.imgur.com/o8R30Qx.jpeg)
+
+## Json Backend Data
+![data](https://i.imgur.com/JPrQXTq.jpeg)
+
+## Login And SignUp
+![auth](https://i.imgur.com/us93SQ2.jpeg)
+
+## Front End View
+![front](https://i.imgur.com/FfZbUK5.jpeg)
+
 
 ### Project Structure
 
@@ -138,16 +151,22 @@ Follow these steps to set up the project locally.
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
 
 ### Contributing
 
 1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
+2. Create your feature branch (`git checkout -b `)
+3. Commit your changes (`git commit -m 'message' `)
+4. Push to the branch (`git push origin `)
 5. Create a new Pull Request
 
 ### Contact
 
-For any inquiries, please reach out to [your-email@example.com].
+For any inquiries, please reach out to:
+
+<!-- - 📧 [abdulrahmanmossadhacker@gmail.com](mailto:abdulrahmanmossadhacker@gmail.com) -->
+- ![Email](https://img.icons8.com/color/24/000000/email.png) [abdulrahmanmossadhacker@gmail.com](mailto:abdulrahmanmossadhacker@gmail.com)
+- ![WhatsApp](https://img.icons8.com/color/24/000000/whatsapp.png) WhatsApp: *254798708444*
+- ![Twitter](https://img.icons8.com/color/24/000000/twitter--v1.png) Twitter: *isaac*
+
