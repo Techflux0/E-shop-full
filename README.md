@@ -75,7 +75,7 @@ Follow these steps to set up the project locally.
 
     cd backend
     npm install
-    
+
     ```
     - Enter the MongoDB connection string
     - Obtain one here [![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)](https://www.mongodb.com/)
@@ -108,13 +108,14 @@ Follow these steps to set up the project locally.
     Start the frontend development server:
 
     ```bash
-    npm start
+    npm run dev
+
     ```
 
 ### Running the Application
 
-- The backend server will run on `http://localhost:5000`.
-- The frontend development server will run on `http://localhost:3000`.
+- The backend server will run on `http://localhost:4000`.
+- The frontend development server will run on `http://localhost:5173`.
 
 ### Features
 
@@ -123,6 +124,9 @@ Follow these steps to set up the project locally.
 - **Checkout:** Securely checkout using PayPal or M-PESA.
 - **Authentication:** Register and log in to manage your orders.
 - **Coupon Codes:** Apply coupon codes for discounts.
+
+## List Product
+![Ecommerce Web App](https://i.imgur.com/qGdKi1k.jpeg)
 
 ### Project Structure
 
