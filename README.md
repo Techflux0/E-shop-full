@@ -165,9 +165,10 @@ This project is licensed under the MIT License - see the [LICENSE](https://opens
 
 For any inquiries, please reach out to:
 
-<!-- - 📧 [abdulrahmanmossadhacker@gmail.com](mailto:abdulrahmanmossadhacker@gmail.com) -->
- - ![Email](https://img.icons8.com/color/24/000000/email.png) [abdulrahmanmossadhacker@gmail.com](mailto:abdulrahmanmossadhacker@gmail.com)
- - ![WhatsApp](https://img.icons8.com/color/24/000000/whatsapp.png) WhatsApp: *254798708444*
- - ![Twitter](https://img.icons8.com/color/24/000000/twitter--v1.png) Twitter: *isaac*
+[abdulrahmanmossadhacker@gmail.com](mailto:abdulrahmanmossadhacker@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abdulrahmanmossadhacker@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/yourwhatsapplink)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)
+
 
 <p align="center"> Copyright &copy; E-SHOP | All rights reserved.</p>
