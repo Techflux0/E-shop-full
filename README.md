@@ -149,6 +149,39 @@ Follow these steps to set up the project locally.
 - **Backend:** Node.js, Express, MongoDB, Mongoose
 - **Frontend:** React, Context API for state management
 
+
+### Deployment
+
+#### Heroku
+[![Deploy to Heroku](https://img.shields.io/badge/Deploy_to-Heroku-7056bf?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/deploy)
+
+1. Create a new Heroku application:
+    ```bash
+    heroku create your-app-name
+    ```
+
+2. Set environment variables on Heroku:
+    ```bash
+    heroku config:set MONGODB_URI=Uri
+    heroku config:set JWT_SECRET=Token
+    ```
+
+3. Deploy the application to Heroku:
+    ```bash
+    git push heroku main
+    ```
+
+#### Replit
+[![Run on Replit](https://img.shields.io/badge/Run_on-Replit-100000?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/github/x-poison/E-shop-full)
+
+1. Fork the repository to your Replit account.
+
+2. Create secrets in the Replit environment:
+    - `MONGODB_URI`: Uri
+    - `JWT_SECRET`: Token
+
+3. Click the "Run" button to start your application.
+
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
@@ -165,10 +198,9 @@ This project is licensed under the MIT License - see the [LICENSE](https://opens
 
 For any inquiries, please reach out to:
 
-[abdulrahmanmossadhacker@gmail.com](mailto:abdulrahmanmossadhacker@gmail.com)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abdulrahmanmossadhacker@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/yourwhatsapplink)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/254798708444)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/kevinlucas254)
 
 
 <p align="center"> Copyright &copy; E-SHOP | All rights reserved.</p>
