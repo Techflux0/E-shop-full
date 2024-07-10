@@ -170,6 +170,4 @@ For any inquiries, please reach out to:
  - ![WhatsApp](https://img.icons8.com/color/24/000000/whatsapp.png) WhatsApp: *254798708444*
  - ![Twitter](https://img.icons8.com/color/24/000000/twitter--v1.png) Twitter: *isaac*
 
-<p align="center">&copy; 2024 E-shop. All rights reserved.</p>
-
-
+<p align="center"> Copyright &copy; E-SHOP | All rights reserved.</p>
