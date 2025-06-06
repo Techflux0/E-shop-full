@@ -203,4 +203,4 @@ For any inquiries, please reach out to:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/kevinlucas254)
 
 
-<p align="center"> Copyright &copy; E-SHOP | All rights reserved.</p>
+<p align="center"> Copyright &copy; E-SHOP | All rights reserved.</p> 
